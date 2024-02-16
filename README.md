@@ -22,6 +22,7 @@ pnpm install
 
 The project is organized in the following directories:
 
+-   `apps` - Contains the website of the project.
 -   `assets` - Contains the assets for the project.
 -   `common` - Contains commonly used code and resources that are used throughout the project.
 -   `docs` - Contains the documentation for the project.
