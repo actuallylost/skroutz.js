@@ -1,6 +1,6 @@
-# Skroutz Typescript Library
+# Skroutz.js
 
-A library that provides access to the Skroutz API.
+A TypeScript library that provides access to the Skroutz API.
 
 ## Prerequisites
 
