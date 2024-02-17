@@ -1,0 +1,16 @@
+{
+	"recommendations": [
+		"mikestead.dotenv",
+		"unifiedjs.vscode-mdx",
+		"dbaeumer.vscode-eslint",
+		"esbenp.prettier-vscode",
+		"davidanson.vscode-markdownlint",
+		"wayou.vscode-todo-highlight",
+		"bradlc.vscode-tailwindcss",
+		"mike-co.import-sorter",
+		"redhat.vscode-yaml",
+		"naumovs.color-highlight",
+		"github.vscode-github-actions",
+		"firefox-devtools.vscode-firefox-debug"
+	]
+}
