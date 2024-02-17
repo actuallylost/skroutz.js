@@ -1,11 +1,19 @@
 {
-	"name": "skroutz.js",
+	"name": "@skroutz.js/skroutz.js",
 	"version": "0.1.0",
 	"author": "actuallylost",
 	"license": "GPL-3.0-only",
 	"type": "module",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/actuallylost/skroutz.js.git"
+	},
+	"bugs": {
+		"url": "https://github.com/actuallylost/skroutz.js/issues"
+	},
 	"scripts": {
-		"prepare": "husky"
+		"prepare": "husky",
+		"create-package": "turbo gen package --args"
 	},
 	"dependencies": {
 		"husky": "^9.0.10"
@@ -16,5 +24,8 @@
 		"eslint-config-prettier": "^9.1.0",
 		"lint-staged": "^15.2.0",
 		"prettier": "^3.1.1"
+	},
+	"engines": {
+		"node": ">=20.10"
 	}
 }

@@ -1,0 +1,13 @@
+{
+	"name": "@skroutz.js/scripts",
+	"version": "0.1.0",
+	"description": "A set of scripts for bootstrapping and maintaining the project.",
+	"author": "actuallylost",
+	"private": true,
+	"devDependencies": {
+		"@turbo/gen": "^1.12",
+		"@types/node": "^20",
+		"turbo": "^1.12.4",
+		"typescript": "^5"
+	}
+}
